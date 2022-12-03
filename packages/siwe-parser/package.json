@@ -1,5 +1,5 @@
 {
-  "name": "@spruceid/siwe-parser",
+  "name": "@crowdtainer/siwe-parser",
   "version": "2.0.2",
   "description": "Parse Messages that conform to EIP-4361: Sign-In with Ethereum (SIWE)",
   "main": "dist/parsers.js",
@@ -11,7 +11,7 @@
     "test": "jest",
     "build": "tsc"
   },
-  "author": "Spruce Systems Inc.",
+  "author": "Crowdtainer",
   "keywords": [
     "ethereum",
     "sign-in",
@@ -19,7 +19,7 @@
     "siwe",
     "siwe-parser"
   ],
-  "homepage": "https://github.com/spruceid/siwe",
+  "homepage": "https://github.com/tfalencar/siwe/tree/siwe-npm-fork",
   "license": "Apache-2.0",
   "dependencies": {
     "@noble/hashes": "^1.1.2",
