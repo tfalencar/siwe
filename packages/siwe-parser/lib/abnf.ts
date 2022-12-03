@@ -1,5 +1,5 @@
-import apgApi from "apg-js/src/apg-api/api";
-import apgLib from "apg-js/src/apg-lib/node-exports";
+import apgApi from "buffer-apg-js/src/apg-api/api";
+import apgLib from "buffer-apg-js/src/apg-lib/node-exports";
 import { isEIP55Address, parseIntegerNumber } from "./utils";
 
 const GRAMMAR = `

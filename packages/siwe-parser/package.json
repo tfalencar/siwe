@@ -22,10 +22,10 @@
   "homepage": "https://github.com/spruceid/siwe",
   "license": "Apache-2.0",
   "dependencies": {
-    "apg-js": "^4.1.1",
+    "@noble/hashes": "^1.1.2",
+    "buffer-apg-js": "^4.1.2",
     "uri-js": "^4.4.1",
-    "valid-url": "^1.0.9",
-    "@noble/hashes": "^1.1.2"
+    "valid-url": "^1.0.9"
   },
   "repository": {
     "type": "git",
