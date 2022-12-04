@@ -1,6 +1,6 @@
 {
   "name": "@crowdtainer/siwe",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Sign-In with Ethereum",
   "main": "dist/siwe.js",
   "types": "dist/siwe.d.ts",
@@ -23,7 +23,7 @@
   ],
   "homepage": "https://github.com/tfalencar/siwe/tree/siwe-npm-fork",
   "dependencies": {
-    "@crowdtainer/siwe-parser": "file:../siwe-parser",
+    "@crowdtainer/siwe-parser": "^2.0.2",
     "@stablelib/random": "^1.0.1",
     "uri-js": "^4.4.1",
     "valid-url": "^1.0.9"
