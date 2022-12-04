@@ -1,3 +1,11 @@
+### Fork of Spruce's SIWE, but uses `buffer-apg-js` dependency instead of `apg-js`.
+
+---
+
+`Note: Please don't rely on this npm package; It is planned to be deprecated if/when the problem of Node's Buffer API usage is solved upstream in the original project.`
+
+---
+
 ![Sign-In with Ethereum logo](https://login.xyz/favicon.png "Sign-In with Ethereum logo")
 
 Sign-In with Ethereum describes how Ethereum accounts authenticate with 
