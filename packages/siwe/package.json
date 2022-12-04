@@ -21,7 +21,7 @@
     "sign-in-with-ethereum",
     "siwe"
   ],
-  "homepage": "https://github.com/spruceid/siwe",
+  "homepage": "https://github.com/tfalencar/siwe/tree/siwe-npm-fork",
   "dependencies": {
     "@crowdtainer/siwe-parser": "file:../siwe-parser",
     "@stablelib/random": "^1.0.1",
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spruceid/siwe.git"
+    "url": "git+https://github.com/tfalencar/siwe/tree/siwe-npm-fork"
   },
   "bugs": {
     "url": "https://github.com/spruceid/siwe/issues"

@@ -1,5 +1,5 @@
 {
-  "name": "siwe",
+  "name": "@crowdtainer/siwe",
   "version": "2.0.5",
   "description": "Sign-In with Ethereum",
   "main": "dist/siwe.js",
@@ -13,7 +13,7 @@
     "test": "jest",
     "docs": "typedoc --plugin nlfurniss-typedoc-plugin-sourcefile-url --plugin typedoc-plugin-extras --sourcefile-url-prefix 'https://github.com/spruceid/siwe' --favicon ./favicon.svg --out docs packages/siwe/lib/siwe.ts"
   },
-  "author": "Spruce Systems Inc.",
+  "author": "Crowdtainer",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/jest": "^27.0.2",
